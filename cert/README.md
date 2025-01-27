@@ -1,0 +1,1 @@
+We place certificates in this folder.
